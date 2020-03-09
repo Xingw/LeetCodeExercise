@@ -1,7 +1,5 @@
-package com.xingw.common
+package com.common
 
-import sun.reflect.generics.tree.Tree
-import java.util.Queue
 import java.util.concurrent.LinkedBlockingQueue
 
 /**

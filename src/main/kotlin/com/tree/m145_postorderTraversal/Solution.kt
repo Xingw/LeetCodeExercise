@@ -1,6 +1,6 @@
 package com.tree.m145_postorderTraversal
 
-import com.xingw.common.TreeNode
+import com.common.TreeNode
 import java.util.LinkedList
 
 /**

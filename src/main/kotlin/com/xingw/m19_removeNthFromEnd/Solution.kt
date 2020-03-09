@@ -1,7 +1,7 @@
 package com.xingw.m19_removeNthFromEnd
 
-import com.xingw.common.ListNode
-import com.xingw.common.createNode
+import com.common.ListNode
+import com.common.createNode
 
 /**
  * Create by xingw on 2020/2/24

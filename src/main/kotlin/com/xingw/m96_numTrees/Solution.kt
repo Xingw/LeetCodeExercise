@@ -1,8 +1,6 @@
 package com.xingw.m96_numTrees
 
-import com.xingw.common.ListNode
-import com.xingw.common.TreeNode
-import sun.reflect.generics.tree.Tree
+import com.common.TreeNode
 
 /**
  * Create by xingw on 2020/3/2

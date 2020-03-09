@@ -1,6 +1,6 @@
 package com.tree.m1028_recoverFromPreorder
 
-import com.xingw.common.TreeNode
+import com.common.TreeNode
 
 /**
  * Create by xingw on 2020/3/5

@@ -1,8 +1,7 @@
 package com.xingw.m99_recoverTree
 
-import com.xingw.common.TreeNode
-import com.xingw.common.createTreeNode
-import com.xingw.common.printTreeNode
+import com.common.TreeNode
+import com.common.createTreeNode
 
 /**
  * Create by xingw on 2020/3/4

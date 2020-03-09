@@ -1,7 +1,7 @@
 package com.xingw.m2_addTwoNumbers
 
-import com.xingw.common.ListNode
-import com.xingw.common.createNode
+import com.common.ListNode
+import com.common.createNode
 
 /**
  * Create by xingw on 2019/12/18

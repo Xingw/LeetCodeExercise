@@ -1,8 +1,8 @@
 package com.xingw.m25_reverseKGroup
 
-import com.xingw.common.ListNode
-import com.xingw.common.createNode
-import com.xingw.common.printListNode
+import com.common.ListNode
+import com.common.createNode
+import com.common.printListNode
 
 /**
  * Create by xingw on 2020/2/25

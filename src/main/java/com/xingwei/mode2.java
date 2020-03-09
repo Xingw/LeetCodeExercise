@@ -1,4 +1,4 @@
-package com.xingw.common;
+package com.xingwei;
 
 /**
  * Create by xingw on 2020/3/2

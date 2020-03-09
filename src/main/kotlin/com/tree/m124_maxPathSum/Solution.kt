@@ -1,7 +1,7 @@
 package com.tree.m124_maxPathSum
 
-import com.xingw.common.TreeNode
-import com.xingw.common.createTreeNode
+import com.common.TreeNode
+import com.common.createTreeNode
 import kotlin.math.max
 
 /**

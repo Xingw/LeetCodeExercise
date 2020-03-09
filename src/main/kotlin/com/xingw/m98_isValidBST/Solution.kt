@@ -1,6 +1,6 @@
 package com.xingw.m98_isValidBST
 
-import com.xingw.common.TreeNode
+import com.common.TreeNode
 
 /**
  * Create by xingw on 2020/3/3
