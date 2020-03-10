@@ -6,6 +6,6 @@ package com.xingwei;
 class mode2 {
 
     public static void main(String[] args) {
-        
+
     }
 }
