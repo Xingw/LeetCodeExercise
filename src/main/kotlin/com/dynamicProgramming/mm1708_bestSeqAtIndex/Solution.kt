@@ -17,7 +17,7 @@ object Solution {
         for (i in height.indices) {
             list.add(Person(height[i], weight[i]))
         }
-        list.sortWith(compareBy({ it.height }, { it.weight }))
+        list.sortWith(compareBy({ it.height }, { -it.weight }))
 
         val dp = IntArray(weight.size) { 1 }
         for (i in weight.indices) {
